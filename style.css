@@ -124,14 +124,14 @@ i.fa.fa-apple {
 
 @media screen and (max-width: 767px) {
     .article {
-        height: 100%;
+        height: 120vh;
         flex-direction: column;
     }
 
     .article-preview,
     .article-info {
         width: 100%;
-        height: 100%;
+        height: auto;
         border-radius: 10px;
     }
     .article-info {
